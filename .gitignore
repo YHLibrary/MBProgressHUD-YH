@@ -1,0 +1,7 @@
+MBProgressHUD+YH.xcodeproj/xcuserdata/
+MBProgressHUD+YH.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+MBProgressHUD+YH.xcodeproj/project.xcworkspace/xcuserdata/
